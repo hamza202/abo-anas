@@ -2595,6 +2595,9 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     background-color: #333;
     border-color: #000000;
 }
+.Featured-section .heading{
+    margin-bottom: 50px;
+}
 .Featured-section .owl-nav{
     position: absolute;
     top: 50%;

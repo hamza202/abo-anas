@@ -2577,3 +2577,56 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
         display: inline-block;
     }
 }
+
+/*.mixitup-content > div{*/
+    /*visibility: hidden !important;*/
+/*}*/
+/*.mixitup-content > div:nth-child(1),*/
+/*.mixitup-content > div:nth-child(2),*/
+/*.mixitup-content > div:nth-child(3),*/
+/*.mixitup-content > div:nth-child(4),*/
+/*.mixitup-content > div:nth-child(5),*/
+/*.mixitup-content > div:nth-child(6){*/
+    /*visibility: visible !important;*/
+/*}*/
+/*last update*/
+.btn-primary:hover {
+    color: #fff;
+    background-color: #333;
+    border-color: #000000;
+}
+.Featured-section .owl-nav{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+.Featured-section .owl-nav button{
+    outline: 0;
+    height: 40px;
+    width: 40px;
+    background: #e44f99 !important;
+    color: #fff !important;
+    text-align: center;
+    line-height: 43px !important;
+    border-radius: 50%;
+
+}
+.Featured-section .owl-next {
+    position: absolute;
+    right: -42px;
+    transition: all 0.4s;
+}
+.Featured-section .owl-next:hover{
+    right: -48px;
+}
+.Featured-section .owl-prev{
+    left: -42px;
+    position: absolute;
+    transition: all 0.4s;
+}
+.Featured-section .owl-prev:hover{
+    left: -48px;
+}
+.Featured-section .overlay::before{
+    background: linear-gradient(180deg,#e44f99 4%,rgba(0,0,0,0) 100%);
+}

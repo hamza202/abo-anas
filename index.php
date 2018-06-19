@@ -135,7 +135,94 @@
     </section>  
     <!--About area end-->
 
-  
+    <section class="work area-wrapper Featured-section">
+        <div class="container" >
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="area-head">
+                        <h2 class="heading">Featured Products</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="owl-carousel">
+                            <div class="mix " >
+                                <div class="mix-wrapper">
+                                    <img src="img/filter/m11.jpg" alt="">
+                                    <div class="overlay"></div>
+                                    <div class="work-icon">
+                                        <div class="work-des"><p>still life picture</p></div>
+                                        <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
+                                        <a href="img/filter/m11.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        <div class="mix" >
+                            <div class="mix-wrapper">
+                                <img src="img/filter/m1.jpg" alt="">
+                                <div class="overlay"></div>
+                                <div class="work-icon">
+                                    <div class="work-des"><p>still life picture</p></div>
+                                    <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="img/filter/m1.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mix " >
+                            <div class="mix-wrapper">
+                                <img src="img/filter/m2.jpg" alt="">
+                                <div class="overlay"></div>
+                                <div class="work-icon">
+                                    <div class="work-des"><p>still life picture</p></div>
+                                    <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="img/filter/m2.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mix " >
+                            <div class="mix-wrapper">
+                                <img src="img/filter/m15.jpg" alt="">
+                                <div class="overlay"></div>
+                                <div class="work-icon">
+                                    <div class="work-des"><p>still life picture</p></div>
+                                    <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="img/filter/m15.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mix" >
+                            <div class="mix-wrapper">
+                                <img src="img/filter/m16.jpg" alt="">
+                                <div class="overlay"></div>
+                                <div class="work-icon">
+                                    <div class="work-des"><p>still life picture</p></div>
+                                    <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="img/filter/m16.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mix" >
+                            <div class="mix-wrapper">
+                                <img src="img/filter/m5.jpg" alt="">
+                                <div class="overlay"></div>
+                                <div class="work-icon">
+                                    <div class="work-des"><p>still life picture</p></div>
+                                    <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="img/filter/m5.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!--Works area start-->
     <section id="works" class="work area-wrapper">
@@ -159,120 +246,98 @@
                     </ul>
 
                     <div class="mixitup-content" id="mixstart">
-                        <div class="mix two col-xs-12 col-sm-6  col-md-4" >
-                           <div class="mix-wrapper">
-                                <img src="img/filter/m13.jpg" alt="">
-                                <div class="overlay"></div>
-                                <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
-                                    <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
-                                    <a href="img/filter/m13.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
-                        </div>
 
-                        <div class="mix three col-xs-12 col-sm-6  col-md-4" >
-                           <div class="mix-wrapper">
-                                <img src="img/filter/m12.jpg" alt="">
-                                <div class="overlay"></div>
-                                <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
-                                    <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
-                                    <a href="img/filter/m12.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
-                        </div>
 
                         <div class="mix four col-xs-12 col-sm-6 col-md-4" >
-                           <div class="mix-wrapper">
+                            <div class="mix-wrapper">
                                 <img src="img/filter/m11.jpg" alt="">
                                 <div class="overlay"></div>
                                 <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
+                                    <div class="work-des"><p>still life picture</p></div>
                                     <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
                                     <a href="img/filter/m11.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
+                                </div>
+                            </div>
                         </div>
 
                         <div class="mix five col-xs-12 col-sm-6  col-md-4" >
-                           <div class="mix-wrapper">
+                            <div class="mix-wrapper">
                                 <img src="img/filter/m1.jpg" alt="">
                                 <div class="overlay"></div>
                                 <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
+                                    <div class="work-des"><p>still life picture</p></div>
                                     <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
                                     <a href="img/filter/m1.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
+                                </div>
+                            </div>
                         </div>
 
                         <div class="mix two col-xs-12 col-sm-6  col-md-4" >
-                           <div class="mix-wrapper">
+                            <div class="mix-wrapper">
                                 <img src="img/filter/m2.jpg" alt="">
                                 <div class="overlay"></div>
                                 <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
+                                    <div class="work-des"><p>still life picture</p></div>
                                     <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
                                     <a href="img/filter/m2.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
+                                </div>
+                            </div>
                         </div>
 
                         <div class="mix three col-xs-12 col-sm-6  col-md-4" >
-                           <div class="mix-wrapper">
+                            <div class="mix-wrapper">
                                 <img src="img/filter/m15.jpg" alt="">
                                 <div class="overlay"></div>
                                 <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
+                                    <div class="work-des"><p>still life picture</p></div>
                                     <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
                                     <a href="img/filter/m15.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
+                                </div>
+                            </div>
                         </div>
 
                         <div class="mix four col-xs-12 col-sm-6  col-md-4" >
-                           <div class="mix-wrapper">
+                            <div class="mix-wrapper">
                                 <img src="img/filter/m16.jpg" alt="">
                                 <div class="overlay"></div>
                                 <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
+                                    <div class="work-des"><p>still life picture</p></div>
                                     <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
                                     <a href="img/filter/m16.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
+                                </div>
+                            </div>
                         </div>
 
                         <div class="mix five col-xs-12 col-sm-6  col-md-4" >
-                           <div class="mix-wrapper">
+                            <div class="mix-wrapper">
                                 <img src="img/filter/m5.jpg" alt="">
                                 <div class="overlay"></div>
                                 <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
+                                    <div class="work-des"><p>still life picture</p></div>
                                     <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
                                     <a href="img/filter/m5.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
+                                </div>
+                            </div>
                         </div>
 
                         <div class="mix three col-xs-12 col-sm-6 col-md-4" >
-                           <div class="mix-wrapper">
+                            <div class="mix-wrapper">
                                 <img src="img/filter/m8.jpg" alt="">
                                 <div class="overlay"></div>
                                 <div class="work-icon">
-                                   <div class="work-des"><p>still life picture</p></div>
+                                    <div class="work-des"><p>still life picture</p></div>
                                     <a href="single.php" ><i class="fa fa-link" aria-hidden="true"></i></a>
                                     <a href="img/filter/m8.jpg" data-lightbox="image-1" data-title="My caption"><i class="fa fa-search" aria-hidden="true"></i></a>
-                                </div> 
-                            </div>    
+                                </div>
+                            </div>
                         </div>
                     </div>
+                    <a href="Categories.php" class="animated zoomIn btn btn-primary page-scroll">Read More</a>
                 </div>
             </div>
         </div>
     </section>
     <!--Works area end-->
-
 
     <!--contact area start-->
     <section id="contact" class="contact-area">

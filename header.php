@@ -22,6 +22,16 @@
 
                             <li><a href="#works">PRODUCTS</a></li>
 
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Categories
+                                    <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Eye Care</a></li>
+                                    <li><a href="#">Body Care</a></li>
+                                    <li><a href="#">Oils</a></li>
+                                    <li><a href="#">Shampoo</a></li>
+                                </ul>
+                            </li>
 
                             <li><a href="#contact">contact</a></li>
                             <li class="dropdown">

@@ -238,8 +238,7 @@
             <div class="row">
                 <div class="work-filter">
                     <ul class="mixitup-button">
-                        <li class="filter" data-filter="all">all</li>
-                        <li class="filter" data-filter=".two">Eye Care</li>
+                        <li class="filter acc" data-filter=".two">Eye Care</li>
                         <li class="filter" data-filter=".three">Body Care</li>
                         <li class="filter" data-filter=".four">Oils</li>
                         <li class="filter" data-filter=".five">Shampoo</li>
@@ -428,7 +427,8 @@
     <script src="js/wow.js"></script>
     <script src="js/jquery.scrollUp.min.js"></script>
     <script src="js/ajax-mail.js"></script>
-    <script src="js/main.js"></script>		
+    <script src="js/main.js"></script>
+
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsBrMPsyNtpwKXPPpG54XwJXnyobfMAIc"></script>
   
     

@@ -19,7 +19,9 @@
 
         //============= Mixitup  ============ 
 
-        $('#mixstart').mixItUp();
+        $('#mixstart').mixItUp({
+            two:"all"
+        });
 
 
         //============= Owl carousel for Testimonial  ============ 

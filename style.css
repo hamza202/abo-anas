@@ -52,7 +52,7 @@ a {
             -moz-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
     text-decoration: none;
 }
-a:hover,
+a:hover
 {
     text-decoration: none;
 }
@@ -2632,4 +2632,22 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }
 .Featured-section .overlay::before{
     background: linear-gradient(180deg,#e44f99 4%,rgba(0,0,0,0) 100%);
+}
+/*last update*/
+.lang ul.dropdown-menu{
+    min-width: auto;
+    padding: 0;
+
+}
+.lang ul.dropdown-menu a{
+    padding:5px 5px ;
+}
+.lang ul.dropdown-menu li:not(:first-child) a{
+    border-top:1px solid #e44f99;
+}
+@media (min-width: 767px) {
+    .lang ul.dropdown-menu{
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
 }
